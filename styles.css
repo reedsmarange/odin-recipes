@@ -1,0 +1,19 @@
+body{
+background-color: aqua;
+}
+
+article {
+    display: flex;
+}
+
+ul{
+    list-style-type: none;
+}
+
+h1{
+    text-align: center;
+}
+
+header{
+    text-align: center;
+}
