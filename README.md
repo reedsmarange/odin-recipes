@@ -1,3 +1,3 @@
 # odin-recipes
 
-This a single page recipe website
+This is a recipe website
